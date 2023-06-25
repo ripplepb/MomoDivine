@@ -10,6 +10,10 @@ use Illuminate\Support\Facades\Auth;
 
 class LoginController extends Controller
 {
+    public function login()
+    {
+        return view('web.login');
+    }
     public function sendOtpLogin($mobile)
     {
         $user = User::where('mobile', $mobile)->where('registration_status', 2)->count();

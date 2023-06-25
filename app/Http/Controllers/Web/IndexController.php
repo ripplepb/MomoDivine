@@ -10,13 +10,12 @@ class IndexController extends Controller
 {
     public function index()
     {
-        $hours = TaxiFare::latest()->where('status', 1)->get();
-        return view('web.index', compact('hours'));
+        return view('web.index');
     }
 
-    public function hourPrice($hour_id = null)
-    {
-        $price = TaxiFare::findOrFail($hour_id);
-        return $price;
-    }
+    // public function hourPrice($hour_id = null)
+    // {
+    //     $price = TaxiFare::findOrFail($hour_id);
+    //     return $price;
+    // }
 }
