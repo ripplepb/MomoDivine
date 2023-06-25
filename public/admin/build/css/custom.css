@@ -1,0 +1,108 @@
+/* scroll-bar */
+::-webkit-scrollbar {
+    width: 0px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgb(0 0 0 / 3%);
+    border-radius: 0;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px #ffffff;
+}
+
+.dash-box {
+    background: linear-gradient(45deg, #fff, #f3f5fb);
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px dashed #1abb9c;
+}
+.table-responsive {
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 1px dotted #858585;
+}
+.btn-spl {
+    background: linear-gradient(322deg, rgb(12 12 84) 0%, rgba(22,33,128,1) 100%, rgba(0,86,255,1) 100%);
+}
+.mb-1{
+    margin-bottom: 15px;
+}
+.well hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #ece9e9;
+    box-shadow: 0 0 2px 0 #e6e3e3;
+}
+.detail-page h5 {
+    background: #fff;
+    margin: 0;
+    padding: 10px;
+    border: 1px solid #ece7e7;
+}
+.logout a {
+    background-color: red;
+    color: #fff;
+}
+.logout a:hover {
+    background-color: rgb(220, 0, 0)!important;
+}
+
+/* Media Query */
+@media (max-width:425px) {
+    .x_panel {
+        padding: 0;
+    }
+    .table-responsive {
+        width: 90vw;
+    }
+    .right_col .x_title h2 {
+        font-size: 14px;
+    }
+    label {
+        font-size: 12px;
+    }
+    .top_nav .navbar-right li:first-child {
+        float: left;
+    }
+    .top_nav .navbar-right {
+        width: 80%;
+        float: left;
+    }
+    .toggle {
+        padding-top: 9px;
+    }
+}
+@media (min-width:426px) {
+    .menu_section {
+        height: 432px;
+        overflow-y: scroll;
+        padding-bottom: 20px;
+    margin-top: 20px;}
+    .top_nav .navbar-right{
+        width: 80%;
+    }
+    .page-tittle h4{
+        margin: 19px 0;
+        margin-left: -15px;
+        line-height: 0.9;
+        font-size: 22px;
+        color: #191c70;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    .wd-95 {
+        width: 95%;
+        float: left;
+    }
+    .wd-5 {
+        width: 5%;
+        float: left;
+    }
+    .dublicate-section {
+        display: flex;
+    }
+}
