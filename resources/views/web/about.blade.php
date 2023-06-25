@@ -22,14 +22,14 @@
     <div class="container">
         <div class="block-title text-center">
             <div class="dot-line"></div><!-- /.dot-line -->
-            <p>Welcome to Cab Bijli</p>
+            <p>Welcome to Momo Divine</p>
             <h2>Your first choice for traveling</h2>
         </div><!-- /.block-title -->
         <div class="row high-gutter">
             <div class="col-lg-6">
                 <div class="about-image-block">
                     <img src="{{asset('web/assets/images/custom/about/aboutsize.jpg')}}" alt="Awesome Image" />
-                    <p style="text-align: justify;">There are many variations of passages of lorem ipsum available but the majority have suffered alteration in some form by injected humour or random words which don't look even slightly believable. If you are going to use a passage of lorem ipsum you need to be sure there isn't anything embarrassing.</p>
+                    <p style="text-align: justify;">When it comes to finding the perfect momo website, we stand out as the top choice. Our commitment to quality, authenticity, and exceptional flavors sets us apart from the rest. We pride ourselves on crafting momos that are a true reflection of the rich culinary heritage they originate from. Our skilled chefs meticulously prepare each dumpling, ensuring that every bite is filled with tantalizing taste and texture. From traditional classics to innovative fusion creations, our menu offers a wide variety of options to satisfy every palate. Moreover, we prioritize freshness and use only the finest ingredients, sourced responsibly. Whether you're a momo enthusiast or new to this delightful delicacy, we guarantee a memorable dining experience. With our user-friendly website, you can conveniently explore our menu, place orders, and have our mouthwatering momos delivered straight to your doorstep. Choose us for an authentic and delectable momo journey that will leave you craving for more.</p>
                 </div><!-- /.image-block -->
             </div><!-- /.col-lg-6 -->
             <div class="col-lg-6">
@@ -37,7 +37,7 @@
                     <div class="video-block-one">
                         <div class="image-block">
                             <div class="inner-block">
-                                <img src="{{asset('web/assets/images/resources/video-1-1.png')}}" alt="Awesome Image" />
+                                <img src="{{asset('web/assets/images/slider/slider-1-1.jpg')}}" alt="Awesome Image" />
                                 <!-- <a href="https://www.youtube.com/watch?v=hsb-fA6ApiE" class="video-popup"><i class="fa fa-play"></i></a> -->
                             </div><!-- /.inner-block -->
                         </div><!-- /.image-block -->
@@ -46,9 +46,17 @@
                         </div><!-- /.content-block -->
                     </div><!-- /.video-block-one -->
                     <p>
-                        Cab Bijli is a premier cab booking company that offers reliable, safe, and affordable transportation services to its customers. With a fleet of well-maintained and comfortable cars, Cab Bijli provides top-notch services to passengers looking for hassle-free travel.
+                        In addition to our unwavering dedication to quality and authenticity, there are several other reasons why choosing us for your momo cravings is a decision you won't regret.
 
-                        The company is committed to providing its customers with a comfortable and secure ride every time they book a cab. With a user-friendly website and mobile application, Cab Bijli makes it easy for customers to book a ride in just a few clicks. 
+First and foremost, we prioritize customer satisfaction above everything else. From the moment you visit our website to the moment you take your first bite, we strive to provide an exceptional customer experience. Our user-friendly interface allows you to effortlessly navigate through our menu, customize your orders, and conveniently place them with just a few clicks. We understand the importance of convenience in today's fast-paced world, which is why we offer reliable and prompt delivery services, ensuring that your momos arrive fresh and piping hot.
+
+Moreover, we believe in catering to all dietary preferences and restrictions. Our menu includes a wide range of options suitable for vegetarians, vegans, and those with gluten-free requirements. We believe that everyone should be able to indulge in the irresistible flavors of momos, regardless of their dietary choices.
+
+At our momo website, we take pride in fostering a sense of community and culinary exploration. We regularly introduce new and exciting flavors, drawing inspiration from various cuisines around the world. Our innovative fusion creations provide a unique twist to the traditional momo experience, allowing you to embark on a culinary adventure without leaving the comfort of your home.
+
+Last but not least, we value transparency and open communication. We welcome feedback from our customers and constantly strive to improve and evolve based on their suggestions. Your satisfaction and enjoyment are our top priorities, and we are committed to exceeding your expectations in every aspect of your momo journey.
+
+So why choose us for your momo cravings? Because we offer a delightful combination of quality, authenticity, convenience, inclusivity, culinary exploration, and exceptional customer service. Indulge in the flavors that transport you to the vibrant streets of the Himalayas, and let us take you on a memorable momo experience that will leave you longing for more. 
                     <div class="call-block">
                         <div class="left-block">
                             <!-- <div class="icon-block">
@@ -90,8 +98,8 @@
                         <i class="conexi-icon-insurance"></i>
                     </div><!-- /.icon-block -->
                     <h3><a href="#">Safety Guarantee</a></h3>
-                    <p>Cab Bijli is a premier cab booking company that offers reliable, safe, and affordable transportation services its customers.
-                       Cab Bijli believes that safety is the first priority.
+                    <p>Momo Divine is a premier momo booking company that offers reliable, safe, and affordable momo services its customers.
+                        Momo Divine believes that safety & hygine is the first priority.
                     </p>
                     <!-- <a href="#" class="more-link">Read More</a> -->
                 </div><!-- /.single-feature-one -->
@@ -102,7 +110,7 @@
                         <i class="conexi-icon-seatbelt"></i>
                     </div><!-- /.icon-block -->
                     <h3><a href="#">Lincensed Drivers</a></h3>
-                    <p>Cab Bijli takes great pride in its team of licensed drivers who are not only professional but also knowledgeable about local roads and traffic conditions.</p>
+                    <p>Momo Divine takes great pride in its team of Deliver Riders who are not only professional but also knowledgeable about local roads and traffic conditions.</p>
                     <!-- <a href="#" class="more-link">Read More</a> -->
                 </div><!-- /.single-feature-one -->
             </div><!-- /.col-lg-4 -->
@@ -112,7 +120,7 @@
                         <i class="conexi-icon-consent"></i>
                     </div><!-- /.icon-block -->
                     <h3><a href="#">Customer service</a></h3>
-                    <p>We understand that customer satisfaction is essential to the success of our business, and we strive to exceed expectations with every ride.</p>
+                    <p>We understand that customer satisfaction is essential to the success of our business, and we strive to exceed expectations with every deliver.</p>
                     <!-- <a href="#" class="more-link">Read More</a> -->
                 </div><!-- /.single-feature-one -->
             </div><!-- /.col-lg-4 -->
